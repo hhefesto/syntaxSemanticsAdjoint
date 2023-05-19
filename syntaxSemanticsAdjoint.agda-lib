@@ -1,0 +1,5 @@
+name: syntaxSemanticsAdjoint
+include:
+  src
+depend:
+  standard-library
